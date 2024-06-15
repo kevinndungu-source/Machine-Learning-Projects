@@ -1,3 +1,16 @@
 # Machine Learning Code
-Welcome to my Machine Learning (ML) repository! This repository contains a collection of code files that demonstrate various tasks involved in the ML workflow, starting from fetching data from scikit-learn datasets to performing data loading, cleaning, filling missing data, feature engineering, and more. 
-> Whether you're a beginner looking to learn the basics of ML or an experienced practitioner exploring new techniques, these code files provide hands-on examples to guide you through the process. Feel free to explore, experiment, and enhance your ML skills with this resource!
+Welcome to my Machine Learning (ML) repository! This collection of code files serves as a comprehensive resource for mastering various aspects of the ML workflow. From fetching data from scikit-learn datasets to advanced tasks like feature engineering and model deployment using Amazon SageMaker, this repository covers it all.
+
+Technologies Used:
+- Amazon SageMaker: Utilized for running Jupyter notebooks, managing training jobs, and deploying models.
+- Python: Programming language used extensively for ML model development and scripting.
+- scikit-learn: Essential library for data preprocessing, feature extraction, and model training.
+- Pandas: Used for data manipulation and analysis.
+- NumPy: Fundamental library for numerical operations and array processing in Python.
+- Matplotlib and Seaborn: Libraries for data visualization and exploratory data analysis (EDA).
+
+![Sagemaker](https://github.com/kevinndungu-source/Machine_Learning/assets/114335263/04040e20-c999-49cc-b9dd-bb24d544e3e6)
+
+Whether you're new to ML or looking to expand your expertise, these code examples provide hands-on experience and practical insights into building and deploying ML models effectively with Amazon SageMaker.
+
+Feel free to explore the code, experiment with different techniques, and elevate your ML skills with this repository!
