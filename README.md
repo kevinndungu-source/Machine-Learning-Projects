@@ -9,8 +9,14 @@ Technologies Used:
 - NumPy: Fundamental library for numerical operations and array processing in Python.
 - Matplotlib and Seaborn: Libraries for data visualization and exploratory data analysis (EDA).
 
+---
+
 ![Sagemaker](https://github.com/kevinndungu-source/Machine_Learning/assets/114335263/04040e20-c999-49cc-b9dd-bb24d544e3e6)
+
+---
 
 Whether you're new to ML or looking to expand your expertise, these code examples provide hands-on experience and practical insights into building and deploying ML models effectively with Amazon SageMaker.
 
 Feel free to explore the code, experiment with different techniques, and elevate your ML skills with this repository!
+
+---
